@@ -2,11 +2,6 @@
 
 A data analytics portfolio project exploring user account creation dynamics, email engagement metrics, and retention patterns. The project provides actionable insights into user behavior across geographic markets, account verification states, and subscription preferences.
 
-## Dashboard preview
-
-![Email Communication & Account Overview](assets/dashboard_preview.png)
-
-> **Note:** A complete export of the Looker Studio dashboard is available in the repository as [`reports/Email Communication & Account Overview.pdf`](reports/Email%20Communication%20%26%20Account%20Overview.pdf).
 
 ## Business questions
 
@@ -39,7 +34,6 @@ Key metrics and dimensions analyzed include:
 
 - `sql/Analysis-of-User-Retention-and-the-Effectiveness-of-Email-Communication.sql` — SQL queries for data extraction and metric calculations
 - `reports/Email Communication & Account Overview.pdf` — complete dashboard visual export
-- `assets/dashboard_preview.png` — dashboard preview image for documentation
 
 ## How to explore the report
 
@@ -53,7 +47,6 @@ Key metrics and dimensions analyzed include:
 - Time-gap calculations rely on timestamp logging accuracy for email dispatches and user interactions.
 - Geographic attribution is based on user profile settings at account creation.
 
-## Possible next improvements
 
 - Implement predictive churn modeling based on early email interaction intervals.
 - Add A/B testing frameworks for optimal email dispatch timing.
