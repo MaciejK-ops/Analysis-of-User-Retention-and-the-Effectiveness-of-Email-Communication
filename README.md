@@ -1,1 +1,0 @@
-# Analysis-of-User-Retention-and-the-Effectiveness-of-Email-Communication
