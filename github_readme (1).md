@@ -54,4 +54,4 @@ Key metrics and dimensions analyzed include:
 
 ## Author
 
-Created as a data analytics portfolio project.
+Created as a data analytics portfolio project by [MaciejK-ops](https://github.com/MaciejK-ops).
